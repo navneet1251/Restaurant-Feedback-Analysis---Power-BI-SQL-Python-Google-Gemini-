@@ -23,6 +23,17 @@ The **Jalwa - Restaurant Feedback System** is a web-based application designed t
 
 ---
 
+## 🧩 Project Structure
+```
+jalwa-feedback-system
+├── app.py                # Main Streamlit app file
+├── requirements.txt      # List of dependencies
+├── .env                  # Environment variables file
+└── README.md             # Project documentation
+```
+
+---
+
 ## 🚀 How to Set Up the Project
 
 ### 1️⃣ Clone the Repository
@@ -76,19 +87,6 @@ The collected feedback is visualized using a Power BI dashboard, providing stake
 
 ---
 
-## 🧩 Project Structure
-```
-jalwa-feedback-system
-├── app.py                # Main Streamlit app file
-├── requirements.txt      # List of dependencies
-├── .env                  # Environment variables file
-└── README.md             # Project documentation
-```
 
----
 
-## 📬 Contact
-For any queries or suggestions, feel free to reach out at:
-- **Email**: your-email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
 
